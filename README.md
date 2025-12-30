@@ -11,7 +11,6 @@ A small Python project demonstrating data cleaning and visualization for monthly
 ## Tools and Libraries
 - Python
 - Google Colab
-- Pandas
 - Matplotlib
 
 ##  Purpose
